@@ -1,0 +1,37 @@
+
+.tuff-txt-1{
+    font-size: 30px;
+    color: #bcbcbc;
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+
+.tuff-txt-2{
+    font-size: 37px;
+}
+
+.tuff-1{
+    background: whitesmoke;
+    height: 19rem;
+    width: 118%;
+    margin-left: -74px;
+}
+
+.tuff-2{
+    color: #b8b197;
+    font-size: 32px;
+    padding-top: 145px;
+}
+
+.tuff-img{
+    margin-left: -45px;
+    max-width: 117%;
+}
+
+.tuff-3{
+    text-align: center;
+    font-size: 32px;
+    padding-top: 33px;
+    padding-bottom: 23px;
+    color: #bcbcbc;
+}
